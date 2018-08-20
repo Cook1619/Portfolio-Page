@@ -1,5 +1,6 @@
 import React, { Fragment } from 'react';
 import background from '../img/image1.jpg';
+
 const HomePage = () => {
 
         return (
@@ -35,6 +36,16 @@ const HomePage = () => {
                         <li>
                             <i className="fas fa-database" />
                             <h4>MySQL</h4>
+                            <p>Got a competitive spirit? Sign up for one of our mountain marathons! Try to reach the summit before anyone else.</p>
+                        </li>
+                        <li>
+                            <i className="fab fa-aws" />
+                            <h4>AWS</h4>
+                            <p>Got a competitive spirit? Sign up for one of our mountain marathons! Try to reach the summit before anyone else.</p>
+                        </li>
+                        <li>
+                            <i className="fab fa-github" />
+                            <h4>GitHub</h4>
                             <p>Got a competitive spirit? Sign up for one of our mountain marathons! Try to reach the summit before anyone else.</p>
                         </li>
                     </ul>
